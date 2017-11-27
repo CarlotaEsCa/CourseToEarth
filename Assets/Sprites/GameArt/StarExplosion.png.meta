@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: e40438a9a143e114f8112356d2e6469f
+timeCreated: 1510336311
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosions_sheet-stars_1_0
+    21300002: explosions_sheet-stars_1_1
+    21300004: explosions_sheet-stars_1_2
+    21300006: explosions_sheet-stars_1_3
+    21300008: explosions_sheet-stars_1_4
+    21300010: explosions_sheet-stars_1_5
+    21300012: explosions_sheet-stars_1_6
+    21300014: explosions_sheet-stars_1_7
+    21300016: explosions_sheet-stars_1_8
+    21300018: explosions_sheet-stars_1_9
+    21300020: AsteroidExplosion_0
+    21300022: AsteroidExplosion_1
+    21300024: AsteroidExplosion_2
+    21300026: AsteroidExplosion_3
+    21300028: AsteroidExplosion_4
+    21300030: AsteroidExplosion_5
+    21300032: AsteroidExplosion_6
+    21300034: AsteroidExplosion_7
+    21300036: AsteroidExplosion_8
+    21300038: AsteroidExplosion_9
+    21300040: StarExplosion_0
+    21300042: StarExplosion_1
+    21300044: StarExplosion_2
+    21300046: StarExplosion_3
+    21300048: StarExplosion_4
+    21300050: StarExplosion_5
+    21300052: StarExplosion_6
+    21300054: StarExplosion_7
+    21300056: StarExplosion_8
+    21300058: StarExplosion_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 39
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 34
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 29
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 24
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 21
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 13
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 7
+        width: 139
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 4
+        width: 148
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
